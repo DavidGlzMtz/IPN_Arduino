@@ -9,6 +9,7 @@ Práctica realizada para la materia de Teoría Electromagnética del grupo 2MM8 
 - [Gonzalez Martínez David Alejandro](https://github.com/DavidGlzMtz)
 - Alvarado Reyes Ulises
 - Moreno Vazquez Luis Antonio
+- Pérez Genaro Xavier
 
 
 ## Material
