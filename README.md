@@ -11,15 +11,6 @@ Práctica realizada para la materia de Teoría Electromagnética del grupo 2MM8 
 - Moreno Vazquez Luis Antonio
 - Pérez Genaro Xavier
 
-
-## Material
-
-- Arduino UNO R3
-- 2 barras de placa fenólica de 1 cm x 5 cm
-- Vaso
-- Regla normalizada
-- Agua
-- Protoboard
 ## Imágenes
 
 Esquema eléctronico del experimento
